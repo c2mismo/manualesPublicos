@@ -1,0 +1,168 @@
+
+
+
+
+Para el servidor mc.librecraft.com
+https://librecraft.com/jugar#
+https://librecraft.com/normas
+https://librecraft.com/foro/tema/mods-permitidos.25083/
+https://librecraft.com/foro/tema/tutorial-para-la-gente-nueva-actualizado.4455/
+https://librecraft.com/foro/tema/gu%C3%ADas-b%C3%A1sicas-survival-pvp.48885/
+
+
+
+
+Instalamos el launcher para MINECRAFT
+
+en arch linux
+paru -S prismlauncher
+
+al ejecutar saldra una ventanita de configuracion, cuando configure la ram
+añadirle la mayor memoria posible sin dejar el sistema sin memoria
+lo aconsejable son unos 6 GB
+
+
+
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+> 1.20.6
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+instalar antes java v.21 en el sistema
+paru -S jdk21-openjdk
+
+
+
+añadir instancia:
+
+en la misma ventana
+seleccionamos la version del minecraft y
+el mod loader Fabric que queremos instalar
+
+asegurarse de:
+editar -> Version
+Instalar loader -> Fabric
+
+
+
+editar -> mods -> descargar mods (para añadir mods tan solo clicar dos veces sobre el nombre, se subrraya)
+
+
+Fabric API
+Sodium
+Health Indicators
+Custom CrossHair Mod
+Xaero's Minimap
+¡¡OJO!! ¡La configuración de este mod que permite ver a jugadores cercanos no es permitida!
+Xaero's World Map
+Styled Sidebars
+
+Ni de coña los shares precisa mas maquina
+
+
+
+
+Lanzamos
+
+Configuraciones
+
+Dificultad normal
+
+Campo de vision (FOV) 90
+
+Graficos
+
+General
+Renderizado 16 o mas chunks (si el ordenador es lento 12 chunks)
+Tamaño interfaca x4
+VSynq no
+Max FPS 40
+Balanceo no
+
+Quality
+Gráficos Rápidos
+
+
+
+Controles
+Raton -> Sensivilidad del raton 50
+
+Teclado
+
+Inventario
+Ranura 6 z
+Ranura 7 x
+Ranura 8 c
+Ranura 9 v
+
+Modo creativo
+Cargar barra de objetos ñ
+Guardar barra de objetos ´
+
+Configuracion Chat de voz
+Apagar N
+GUI Y
+Grupo de chat G
+Ocultar Vacio
+Hablar H
+Silenciar J
+
+Xaero's Minimap
+Ajuste de mini map ,
+Aumentar minimapa r
+
+
+
+Configuracion del minimapa (,)
+
+View setting
+Shape Cicle
+
+Entity radar setting
+Display radar No
+
+Abrimos Mapa (m)
+En el lado derecho un icono raro: Minimap entity radar is NOT displayed
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+FIN > 1.20
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+
+
+
+Conectar
+
+Nombre del servidor
+librecraft
+
+IP del servidor
+mc.librecraft.com
+
+/register [contraseña] [repitecontraseña]
+
+
+para entrar
+/login [contraseña]
+
+coge la brujula con la mano y clickea
+elije survival
+
+
+El libro de crafteos no aparece en el juego,
+solucion:
+
+Para ver recetas poner en buscar el nombre en
+https://es.minecraft.wiki/w/Minecraft_Wiki:Foro
+
+si no se sabe el nombre buscar en:
+https://minecraft.tools/es/crafting.php
+
+
