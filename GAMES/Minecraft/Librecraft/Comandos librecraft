@@ -1,16 +1,86 @@
 
+Comandos Básicos de Chat
+
+/say [mensaje]
+Envía un mensaje a todos los jugadores en el servidor.
+No es necesario con escribir sin (/) delante.
+
+/me [acción]
+Muestra un mensaje en el chat que describe una acción que estás realizando.
+
+/tell [jugador] [mensaje]
+Envía un mensaje privado a otro jugador.
+
+/msg [jugador] [mensaje]
+Similar a /tell, envía un mensaje privado a un jugador específico.
+
+/whisper [jugador] [mensaje]
+También envía un mensaje privado, pero puede tener diferentes configuraciones según el servidor.
+
+/helpop [mensaje]
+Envía un mensaje a los users helpers
 
 
+TEPEOS
+
+/spawn
+Teletransporta al jugador al punto de aparición del servidor.
+
+/parcela
+
+/p h
+para ir a tu parcela
+
+/p h [jugador]
+para ir a la parcela del jugador
+
+prueba tambien
+/p h:2 [jugador]
+/p h:3 [jugador]
 
 
+/ps home 1: para ir a tu home
 
+
+/sethome
+Establece tu hogar en el servidor, permitiéndote teletransportarte allí más tarde, maximo 5 hogares.
+
+/home
+Teletransporta al jugador a su hogar previamente establecido, maximo 5 hogares.
+
+/delhome
+Elimina el hogar previamente establecido, deja un espacio para otro nuevo hasta maximo de 5 hogares.
+
+
+/atajo [nombreAtajo]
+solo lo pueden hacer los VIPS, pero lo podomos usar todos
+es como /home pero se puede compartir
+
+/warp menas
+/warp spawn
+/warp pvp
 /warp comida
 /warp parcela
-/warp suarvival
-/tp ramdom: para conseguir recursos
+/warp survival
+/warp nether
+/warp end
+/warp recursos
+/warp bosque
 
-/p h: para ir a tu parcela
-/ps home 1: para ir a tu home
+
+/tp ramdom
+¿para conseguir recursos?
+
+/random survival
+a un lugar de survival
+
+/random recursos
+fuera de survival
+
+/tpa [jugador]
+solicita al jugador un tepeo hasta él, él tendrá que aceptar.
+
+
 
 para conseguir dinero
 /jobs browser
@@ -18,42 +88,33 @@ los que mejor pagan
 /jobs join minero
 /jobs join talador
 
-COMANDOS
 
-/list: Muestra una lista de todos los jugadores en el servidor.
+/balance
+muestra el dinero que tienes
 
-    Ejemplo: Simplemente escribe /list.
+/money
+idem
 
-/help [comando]: Proporciona información sobre un comando específico.
-
-    Ejemplo: /help say para obtener más información sobre el comando /say.
-
-
-
-Comandos Básicos de Chat
-
-/say [mensaje]: Envía un mensaje a todos los jugadores en el servidor.
-    Ejemplo: /say ¡Bienvenidos a Librecraft!
-
-/me [acción]: Muestra un mensaje en el chat que describe una acción que estás realizando.
-    Ejemplo: /me está construyendo una casa.
-
-/tell [jugador] [mensaje]: Envía un mensaje privado a otro jugador.
-    Ejemplo: /tell Juan Hola, ¿cómo estás?
-
-/msg [jugador] [mensaje]: Similar a /tell, envía un mensaje privado a un jugador específico.
-
-/whisper [jugador] [mensaje]: También envía un mensaje privado, pero puede tener diferentes configuraciones según el servidor.
+/money [jugador]
+muestra el dinero que tiene el jugador
 
 
+/list
+Muestra una lista de todos los jugadores en el servidor.
+Tambien se puede usar la tecla TAB
 
-/ignore [jugador]: Ignora los mensajes de un jugador específico.
+/help [comando]
+Proporciona información sobre un comando específico.
+Eliminado en el server
 
-    Ejemplo: /ignore Juan para no recibir mensajes de Juan.
+/kit
+recibes los dos libros de ayuda
 
-/unignore [jugador]: Deja de ignorar a un jugador.
+/ignore [jugador]
+Ignora los mensajes de un jugador específico.
 
-    Ejemplo: /unignore Juan
+/unignore [jugador]
+Deja de ignorar a un jugador.
 
 
 
@@ -76,21 +137,11 @@ Comandos Básicos de Chat
 
 
 
-Comandos generales de usuario
-
-
-/sethome
-Establece tu hogar en el servidor, permitiéndote teletransportarte allí más tarde, maximo 5 hogares.
-
-/home
-Teletransporta al jugador a su hogar previamente establecido, maximo 5 hogares.
-
-/delhome
-Elimina el hogar previamente establecido, deja un espacio para otro nuevo hasta maximo de 5 hogares.
 
 
 
-/spawn: Teletransporta al jugador al punto de aparición del servidor.
+
+
 
 
 

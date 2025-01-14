@@ -132,6 +132,70 @@ En el lado derecho un icono raro: Minimap entity radar is NOT displayed
 FIN > 1.20
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+1.8
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+he tenido problemas al instalarlo, probare mas adelante de nuevo
+
+instalar antes java v.8
+paru -S jdk8-openjdk
+
+añadir instancia para 1.8.9
+seleccionamos la version del minecraft y
+el mod loader Forge (la 1.8 no tiene Fabric)
+
+pulsamos editar -> mods -> descargar mods (para añadir mods tan solo clicar dos veces sobre el nombre, se subrraya)
+
+
+??? Sodium ¿algo similar?
+Health Bar
+Custom CrossHair Mod
+Xaero's Minimap
+Xaero's World Map
+VanillaHUD
+
+
+Configuraciones
+
+Campo de vision (FOV) 90
+
+Dificultad normal
+
+Teclas
+
+Inventario
+Ranura 5 <
+Ranura 6 z
+Ranura 7 x
+Ranura 8 c
+Ranura 9 v
+
+Modo creativo
+Cargar barra de objetos g
+Guardar barra de objetos h
+
+Xaero's Minimap
+Minimap abrir config ,
+Aumentar minimapa r
+
+
+
+Configuracion del minimapa (,)
+
+View setting
+Shape Cicle
+
+Entity radar setting
+Display radar No
+
+Abrimos Mapa (m)
+En el lado derecho un icono raro: Minimap entity radar is NOT displayed
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+FIN > 1.8
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 
 
 
