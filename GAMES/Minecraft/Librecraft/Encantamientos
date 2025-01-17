@@ -1,5 +1,5 @@
 
-En Libreminecraft es posible que los encantamientos de
+En Librecraft es posible que los encantamientos de
 Toque de seda
 Reparacion
 Esten reservados solo para usuarios VIPS
@@ -19,7 +19,7 @@ Hay encantamientos que no se pueden sumar en un objeto, ejm.:
 Fortuna y Toque de seda.
 Esto a veces obliga a tener mas de un objeto especializado.
 
-Para desencantar se puede usar la afiladora aunque en Libreminecraft
+Para desencantar se puede usar la afiladora aunque en Librecraft
 al estar basado en 1.8 no tiene esta herramienta.
 
 Cada vez que usemos el ynque para los encantamientos,
@@ -44,21 +44,39 @@ Aunque sea un completo lio te ahorras desde un 50 a un 80% de experiencia, que n
 
 Los que no tienen orden quizas no sea necesario:
 
+_____________________________
+      |              |
+      |    ARMAS     |
+      |______________|
 
 
-ESPADA de BATALLA:
-Filo V + Botín III + Irrompibilidad III + BARRIDO III + REPARACION
+ESCUDO: Irrompibilidad III + BARRIDO III + REPARACION
+
+
+
+ESPADA de BATALLA: Filo V + Botín III + Irrompibilidad III + BARRIDO III + REPARACION
 
 Barrido es polemica en ocaciones puede ser conflictivo pudiendo dañar a alguien a quien no se quiera
 Empuje suele convertirse en un problema teniendo que perseguir a tu oponente
 
-ESPADA para GRANJAS de ZOMBIS y WITHER:
-GOLPEO V + Botín III + Irrompibilidad III + BARRIDO III + REPARACION
+ESPADA para GRANJAS de ZOMBIS y WITHER: GOLPEO V + Botín III + Irrompibilidad III + BARRIDO III + REPARACION
 
-ESPADA para GRANJAS de ARAÑAS:
-GOLPEO V + Perdición de los artrópodos III + Irrompibilidad III + BARRIDO III + REPARACION
+ESPADA para GRANJAS de ARAÑAS: GOLPEO V + Perdición de los artrópodos III + Irrompibilidad III + BARRIDO III + REPARACION
 
 Quizas esta última se puede usar la de batalla
+
+Para LIBRECRAFT:
+
+ESPADA para GRANJAS de ARAÑAS: Filo V + Irrompibilidad III + BARRIDO III
+
+
+
+TRIDENTE de BATALLA:
+Conductividad + Lealtad + Irrompibilidad III + REPARACION
+
+
+TRIDENTE de TRANSPORTE:
+Propulsión acuática III + Irrompibilidad III + REPARACION
 
 
 
@@ -72,11 +90,100 @@ Total 29 Niveles
 
 
 
-PICO FORTUNA:
-Fortuna III + Irrompibilidad III + Eficiencia V + Reparación
+BALLESTA: Carga rápida III + Perforación IV + Irrompibilidad III + REPARACION
 
-PICO SEDA:
-Toque de seda + Irrompibilidad III + Eficiencia V + Reparación
+
+
+___________________________________
+      |                     |
+      |    HERRAMIENTAS     |
+      |_____________________|
+
+
+
+PICO FORTUNA: Fortuna III + Irrompibilidad III + Eficiencia V + Reparación
+
+PICO SEDA: Toque de seda + Irrompibilidad III + Eficiencia V + Reparación
+
+
+
+PALA FORTUNA: Fortuna III + Irrompibilidad III + Eficiencia V + Reparación
+
+
+
+HACHA FORTUNA: Fortuna III + Filo V + Irrompibilidad III + Eficiencia V + Reparación
+
+HACHA SEDA: Toque de seda + Filo V + Irrompibilidad III + Eficiencia V + Reparación
+Pa' los tradeos con los melones
+
+
+
+AZADA FORTUNA: Fortuna III + Irrompibilidad III + Eficiencia V + Reparación
+
+
+
+CAÑA PESCAR FORTUNA: Atracción III + Suerte marina + Irrompibilidad III + Reparación
+
+CAÑA PESCAR SEÑUELO: Irrompibilidad III + Reparación
+Para usar con hongos y zanahorias.
+
+
+
+_______________________________
+      |                 |
+      |    ARMADURAS    |
+      |_________________|
+
+
+
+CASCO
+1º Casco + Respiración III (6 Niveles)
+2º Libro Protección IV + Libro Afinidad acuática (2 Niveles)
+3º Libro Irrompibilidad III + Libro Reparación (2 Niveles)
+4º Casco + Libro del paso 2º (8 Niveles)
+5º Casco + Libro del paso 3º (9 Niveles)
+Total 27 Niveles
+
+
+
+PECHERA
+1º Pechera + Protección IV (4 Niveles)
+2º Libro Irrompibilidad III + Libro Reparación (2 Niveles)
+3º Pechera + Libro del paso 2º (7 Niveles)
+Total 13 Niveles
+
+
+
+MAYAS
+1º Maya + Protección IV (4 Niveles)
+2º Libro Irrompibilidad III + Libro Reparación (2 Niveles)
+3º Maya + Libro del paso 2º (7 Niveles)
+4º Maya + Acecho rápido III (15 Niveles)
+Total 28 Niveles
+
+
+
+BOTAS
+1º Botas + Agilidad acuática (6 Niveles)
+2º Libro Protección IV + Libro Irrompibilidad III (3 Niveles)
+3º Libro Caida de pluma + Libro Reparación (2 Niveles)
+4º Botas + Libro del paso 2º (9 Niveles)
+5º Botas + Libro del paso 3º (10 Niveles)
+Total 30 Niveles
+
+Se pueden hacer otras dos, no aconsejo demasiado cambiando agilidad acuática por:
+Velocidad de almas o Paso helado
+
+En Librecraft probar el paso helado xq sde buguea con la nieve.
+
+
+
+
+
+
+
+
+
 
 
 
