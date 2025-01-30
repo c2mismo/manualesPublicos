@@ -1,0 +1,265 @@
+
+
+
+LibreCraft es una comunidad y un servidor de Minecraft que ofrece una experiencia de juego única con una variedad de comandos personalizados. A continuación, te proporciono una lista extensa de comandos útiles basados en la información disponible en **librecraft.com** y su foro. Estos comandos están diseñados para mejorar tu experiencia en el servidor, ya sea para la construcción, la interacción con otros jugadores, o la gestión de tus recursos.
+
+---
+
+### **Comandos Generales**
+1. **/ayuda** - Muestra una lista de comandos disponibles.
+2. **/reglas** - Muestra las reglas del servidor.
+3. **/spawn** - Te lleva al spawn del servidor.
+4. **/tpa [jugador]** - Solicita teletransportarte a otro jugador.
+5. **/tpahere [jugador]** - Solicita que otro jugador se teletransporte a ti.
+6. **/home** - Te lleva a tu hogar establecido.
+7. **/sethome** - Establece tu hogar en tu ubicación actual.
+8. **/delhome** - Elimina tu hogar establecido.
+9. **/warp [nombre]** - Te teletransporta a un warp público.
+10. **/warps** - Muestra una lista de warps disponibles.
+11. **/back** - Regresa a tu ubicación anterior.
+12. **/msg [jugador] [mensaje]** - Envía un mensaje privado a otro jugador.
+13. **/r [mensaje]** - Responde a un mensaje privado.
+14. **/ignore [jugador]** - Ignora los mensajes de un jugador.
+15. **/list** - Muestra la lista de jugadores conectados.
+16. **/ping** - Muestra tu ping actual en el servidor.
+17. **/afk** - Marca tu estado como AFK (Away From Keyboard).
+18. **/balance** - Muestra tu saldo de dinero en el servidor.
+19. **/pay [jugador] [cantidad]** - Envía dinero a otro jugador.
+20. **/top** - Muestra las estadísticas de los jugadores más ricos.
+
+---
+
+### **Comandos de Construcción y Protección**
+21. **/claim** - Protege un área de 16x16 bloques alrededor de ti.
+22. **/unclaim** - Elimina la protección de un área.
+23. **/trust [jugador]** - Permite a otro jugador construir en tu área protegida.
+24. **/untrust [jugador]** - Revoca el permiso de construcción de un jugador.
+25. **/abandonclaim** - Abandona un área protegida.
+26. **/lock** - Bloquea un cofre o puerta para que solo tú puedas abrirlo.
+27. **/unlock** - Desbloquea un cofre o puerta.
+28. **/cprivate** - Hace que un cofre sea privado.
+29. **/cremove** - Elimina la protección de un cofre.
+30. **/clearinventory** - Limpia tu inventario (solo en áreas permitidas).
+
+---
+
+### **Comandos de Economía y Tiendas**
+31. **/shop** - Abre el menú de tiendas.
+32. **/sell [cantidad]** - Vende los ítems que sostienes en la mano.
+33. **/buy [cantidad]** - Compra ítems de una tienda.
+34. **/balance** - Muestra tu saldo de dinero.
+35. **/baltop** - Muestra el top de jugadores más ricos.
+36. **/ah** - Accede a la subasta de ítems.
+37. **/ah sell [precio]** - Subasta el ítem que sostienes en la mano.
+38. **/ah bid [cantidad]** - Ofrece una cantidad en una subasta.
+39. **/ah cancel** - Cancela tu subasta actual.
+40. **/ah list** - Muestra las subastas activas.
+
+---
+
+### **Comandos de Moderación (Solo para Staff)**
+41. **/ban [jugador] [razón]** - Banea a un jugador del servidor.
+42. **/unban [jugador]** - Desbanea a un jugador.
+43. **/kick [jugador] [razón]** - Expulsa a un jugador del servidor.
+44. **/mute [jugador] [razón]** - Silencia a un jugador.
+45. **/unmute [jugador]** - Quita el silencio a un jugador.
+46. **/tp [jugador]** - Te teletransporta a un jugador.
+47. **/tphere [jugador]** - Teletransporta a un jugador a tu ubicación.
+48. **/vanish** - Te vuelves invisible para otros jugadores.
+49. **/fly** - Activa o desactiva el modo vuelo.
+50. **/gamemode [modo] [jugador]** - Cambia el modo de juego de un jugador.
+
+---
+
+### **Comandos de Utilidad**
+51. **/hat** - Coloca el ítem que sostienes en la mano como sombrero.
+52. **/repair** - Repara el ítem que sostienes en la mano.
+53. **/feed** - Llena tu barra de hambre.
+54. **/heal** - Restaura tu salud.
+55. **/workbench** - Abre una mesa de trabajo virtual.
+56. **/enderchest** - Abre tu enderchest.
+57. **/craft** - Abre una mesa de crafteo virtual.
+58. **/trash** - Abre una papelera para eliminar ítems.
+59. **/ptime [tiempo]** - Cambia la hora personal en tu pantalla.
+60. **/pweather [clima]** - Cambia el clima personal en tu pantalla.
+
+---
+
+### **Comandos de Diversión y Sociales**
+61. **/nick [nombre]** - Cambia tu apodo en el servidor.
+62. **/color [color]** - Cambia el color de tu nombre en el chat.
+63. **/hat** - Usa un ítem como sombrero.
+64. **/sit** - Siéntate en el suelo.
+65. **/lay** - Acuéstate en el suelo.
+66. **/dance** - Realiza una animación de baile.
+67. **/hug [jugador]** - Abraza a otro jugador.
+68. **/slap [jugador]** - Golpea a otro jugador.
+69. **/highfive [jugador]** - Choca los cinco con otro jugador.
+70. **/firework** - Lanza un fuego artificial.
+
+---
+
+### **Comandos de Clanes (Si está habilitado)**
+71. **/clan create [nombre]** - Crea un nuevo clan.
+72. **/clan invite [jugador]** - Invita a un jugador a tu clan.
+73. **/clan accept** - Acepta una invitación a un clan.
+74. **/clan leave** - Abandona tu clan actual.
+75. **/clan kick [jugador]** - Expulsa a un jugador de tu clan.
+76. **/clan promote [jugador]** - Asciende a un jugador en el clan.
+77. **/clan demote [jugador]** - Degrada a un jugador en el clan.
+78. **/clan chat [mensaje]** - Envía un mensaje al chat del clan.
+79. **/clan disband** - Disuelve tu clan.
+80. **/clan info [nombre]** - Muestra información sobre un clan.
+
+---
+
+### **Comandos de Eventos y Minijuegos**
+81. **/event join** - Únete a un evento en curso.
+82. **/event leave** - Abandona un evento.
+83. **/event info** - Muestra información sobre el evento actual.
+84. **/parkour join** - Únete a un curso de parkour.
+85. **/parkour leave** - Abandona un curso de parkour.
+86. **/parkour top** - Muestra los mejores tiempos en parkour.
+87. **/pvp on** - Activa el modo PvP.
+88. **/pvp off** - Desactiva el modo PvP.
+89. **/duel [jugador]** - Reta a otro jugador a un duelo.
+90. **/duel accept** - Acepta un duelo.
+
+---
+
+### **Comandos de Personalización**
+91. **/kit [nombre]** - Reclama un kit disponible.
+92. **/kits** - Muestra una lista de kits disponibles.
+93. **/rename [nombre]** - Cambia el nombre del ítem que sostienes.
+94. **/lore [texto]** - Añade un texto descriptivo al ítem que sostienes.
+95. **/enchant [encantamiento] [nivel]** - Añade un encantamiento al ítem que sostienes.
+96. **/disenchant** - Elimina los encantamientos del ítem que sostienes.
+97. **/skull [jugador]** - Obtiene la cabeza de un jugador.
+98. **/color [color]** - Cambia el color de tu nombre en el chat.
+99. **/trail [efecto]** - Activa un efecto de partículas detrás de ti.
+100. **/pet [nombre]** - Genera una mascota.
+
+---
+
+Esta lista es una recopilación basada en la información disponible en **librecraft.com** y su foro. Algunos comandos pueden variar dependiendo de las actualizaciones del servidor o de los plugins utilizados. Para obtener la lista más actualizada, siempre es recomendable consultar la página oficial o preguntar en el servidor usando **/ayuda**. ¡Diviértete en LibreCraft! 🎮
+
+
+En LibreCraft, el modo **Survival** incluye comandos exclusivos y personalizados para mejorar la experiencia de supervivencia, construcción, economía y protección. Aquí te dejo una lista detallada de comandos útiles específicos para Survival, basados en la información de **librecraft.com** y su foro:
+
+---
+
+### **Comandos de Protección y Territorios**
+1. **/claim**
+   - Protege un área de 16x16 bloques alrededor de ti. Ideal para construir sin que otros modifiquen tu terreno.
+2. **/unclaim**
+   - Elimina la protección de un área que hayas reclamado.
+3. **/trust [jugador]**
+   - Permite a otro jugador editar en tu área protegida.
+4. **/untrust [jugador]**
+   - Revoca los permisos de un jugador en tu territorio.
+5. **/abandonclaim**
+   - Abandona un área protegida (útil si ya no la necesitas).
+6. **/lock**
+   - Bloquea cofres, puertas o hornos para que solo tú y los jugadores autorizados puedan usarlos.
+7. **/cprivate**
+   - Marca un cofre como privado (solo tú podrás acceder).
+
+---
+
+### **Comandos de Economía y Tiendas**
+8. **/shop**
+   - Accede al menú de tiendas públicas para comprar o vender recursos.
+9. **/sell [cantidad]**
+   - Vende los ítems que sostienes en la mano (ejemplo: `/sell 64` para vender un stack).
+10. **/sellhand**
+    - Vende automáticamente todo el ítem que sostienes en la mano.
+11. **/ah**
+    - Abre el menú de subastas para comprar o vender ítems con otros jugadores.
+12. **/ah sell [precio]**
+    - Subasta el ítem que sostienes (ejemplo: `/ah sell 100`).
+13. **/balance**
+    - Revisa tu saldo de dinero (economía basada en **LibreCoins**).
+14. **/pay [jugador] [cantidad]**
+    - Envía dinero a otro jugador.
+
+---
+
+### **Comandos de Utilidad y Supervivencia**
+15. **/home**
+    - Teletranspórtate a tu hogar establecido (usa `/sethome` para configurarlo).
+16. **/back**
+    - Regresa a tu ubicación anterior (útil si mueres y quieres recuperar tus ítems).
+17. **/workbench**
+    - Abre una mesa de trabajo portátil.
+18. **/enderchest**
+    - Accede a tu enderchest personal desde cualquier lugar.
+19. **/trash**
+    - Abre una papelera virtual para eliminar ítems no deseados.
+20. **/feed**
+    - Llena tu barra de hambre (dependiendo del rango o permisos).
+21. **/heal**
+    - Restaura toda tu salud (suele tener un cooldown).
+22. **/repair**
+    - Repara el ítem que sostienes en la mano.
+
+---
+
+### **Comandos de Exploración y Navegación**
+23. **/warp [nombre]**
+    - Teletranspórtate a warps públicos como minas, mercados o zonas de recursos.
+24. **/rtp**
+    - Teletransporte aleatorio a zonas vírgenes del mapa para explorar (si está habilitado).
+25. **/tpa [jugador]**
+    - Solicita teletransportarte a otro jugador (útil para reunirte con amigos).
+26. **/spawn**
+    - Regresa al spawn principal del servidor.
+
+---
+
+### **Comandos de Kits y Recursos**
+27. **/kits**
+    - Muestra los kits gratuitos disponibles (ejemplo: `/kit herramientas` o `/kit inicio`).
+28. **/kit [nombre]**
+    - Reclama un kit (algunos tienen cooldown diario).
+29. **/craft**
+    - Abre una mesa de crafteo portátil.
+
+---
+
+### **Comandos de Protección contra Robos**
+30. **/lwc**
+    - Sistema de protección avanzada para bloquear cofres, puertas, etc. (usa `/lwc create` para activarlo).
+31. **/near**
+    - Detecta jugadores cerca de ti (útil para evitar robos en minas).
+
+---
+
+### **Comandos de Clanes (si están activos)**
+32. **/clan create [nombre]**
+    - Crea un clan para proteger territorio y jugar en equipo.
+33. **/clan home**
+    - Teletranspórtate a la base de tu clan.
+
+---
+
+### **Comandos Especiales de Survival**
+34. **/wilderness**
+    - Teletranspórtate a una zona no reclamada (para evitar áreas protegidas).
+35. **/top**
+    - Muestra el top de jugadores con más dinero, tiempo jugado o recursos.
+36. **/sit**
+    - Siéntate en el suelo (para descansar en tu base).
+37. **/ptime**
+    - Cambia la hora personal en tu pantalla (útil para jugar de noche).
+
+---
+
+### **Consejos de Supervivencia**
+- Usa **/sethome** cerca de tus minas o granjas para acceder rápidamente.
+- Protege tus construcciones con **/claim** y **/lock**.
+- Vende recursos comunes (como piedra o madera) en **/shop** para ganar dinero rápido.
+- Explora con **/rtp** para encontrar biomas raros o estructuras.
+
+---
+
+Para más detalles, visita la [wiki de LibreCraft](https://librecraft.com/wiki) o usa **/ayuda** en el juego. ¡Disfruta sobreviviendo y construyendo en LibreCraft! 🌟
